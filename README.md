@@ -1,4 +1,5 @@
-The R codes for simulation studies and real data analysis in the manuscript entitled "Factor-Augmented Functional Linear Models".
+#The R codes for simulation studies and real data analysis in the manuscript entitled "Factor-Augmented Functional Linear Models".
+
 ###########################################################
 
 1. FaFQL_est.R: the R code used to calculate the estimation for the parameters of the functional quantile linear regression with hidden factors (FaFQL). The initial output is used as the starting point of the iteration algorithm for computing the estimations of the proposed method.
