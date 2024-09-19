@@ -219,4 +219,3 @@ GetSmoRho=function(u,tau,h){
   h/2*GetLg(u/h)+(tau-0.5)*u
 }
 
-

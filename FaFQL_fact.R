@@ -82,7 +82,8 @@ if(iter_num>500 | itnor_theta<0.001 )  break
 
 fact_BIC=NULL
 for (r in 1:fact_numax){
-fact_res=GetFaFQLEst=function(respon_Y,fact_num,cov_Z,pena_mat,tau,h)
+fat_num=r 
+fact_res=GetFaFQLEst(respon_Y,fact_num,cov_Z,pena_mat,tau,h)
 fact_theta=fact_res$iter_theta
 fact_F=fact_res$iter_F
 fact_lambda=fact_res$iter_lambda

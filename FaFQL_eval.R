@@ -55,5 +55,3 @@ FaFQL_Frm=sqrt(fafql_Fsrm)
 FaFQL_lambdarm=sqrt(fafql_lambdasrm)
 
 
-
-

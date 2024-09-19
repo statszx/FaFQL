@@ -1,6 +1,7 @@
 # generate the data sample
 
-s_grid=seq(0,1,length.out = 500)
+s_grid=seq(0,1,length.out=500)
+
 
 beta_1=2+3*s+exp(2*s)
 beta_2=5+3*sin(2*pi*s)+2*cos(2*pi*s)
