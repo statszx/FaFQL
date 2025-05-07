@@ -1,4 +1,4 @@
-# The R codes for simulation studies and real data analysis in the manuscript entitled "Factor-Augmented Functional Linear Models".
+# The R codes for simulation studies and real data analysis in the manuscript entitled "Factor-Augmented Functional Quantile Linear Models".
 
 ###########################################################
 
